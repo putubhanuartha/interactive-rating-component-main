@@ -21,7 +21,7 @@ Twitter : @BhanuarthaArya
 
 ## How To Run
 ```
-npm start
+npm install && npm start
 ```
 You can clone or download this repository. Make sure you are on the correct project root path. This project use create-react-app webpack bundler.  
 Run this project using command **npm start** on your terminal. The default local server url would be http://127.0.0.1:3000/
